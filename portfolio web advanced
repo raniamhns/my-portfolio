@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <tillte>portfolio course</tillte>
+     <link rel="" stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <h1> porfolio course</h1>
+    </header>
+<main>
+    <section id="from-section">
+        <h2>contact from</h2>
+        <Form id="contact-from">
+            <label for "name">name:</label>
+            <input type=""text" id=""name" name="name" required>
+            <label for="email">Email:</label>
+            <button type=" submit"> submit</button>
+    </Form>
+</section>
+</section>
+      <h2>JSON Data</h2>
+      <button id="fetch-data"> fetch data</button>
+      <pre id="json-data"></pre>
+   </section>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
